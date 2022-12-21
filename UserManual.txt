@@ -1,0 +1,17 @@
+Team Gopal Present's
+	 _________________________________________________
+        |						  |
+	|		  S L O T M A C H I N E		  |
+	|_________________________________________________|
+
+Credits
+- Gopal Karki
+- Aabhusan Adhikary
+- Diwakar Khatiwada
+- Anukul Bhattarai
+- Sanjog Pokhrel  
+
+Setup:
+1. Copy the Proj file.
+2. Paste to your Destiantion.
+3. Run SlotMachine.exe.
